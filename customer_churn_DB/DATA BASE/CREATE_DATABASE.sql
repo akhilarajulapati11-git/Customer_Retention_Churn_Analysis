@@ -1,0 +1,3 @@
+CREATE DATABASE Customer_Churn_DB;
+USE Customer_Churn_DB;
+SHOW DATABASES;
